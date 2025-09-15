@@ -1,0 +1,9 @@
+Standart installation commands:
+pnpm install --frozen-lockfile
+pnpm build
+pnpm inject
+
+Websites:
+https://discord.com/
+https://vencord.dev/
+https://docs.vencord.dev/installing/
